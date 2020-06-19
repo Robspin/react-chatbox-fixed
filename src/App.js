@@ -1,8 +1,6 @@
 import React from 'react';
 import './App.css';
 
-import 'antd/dist/antd.css';
-
 import Dashboard from './Dashboard';
 import Store from './Store';
 
